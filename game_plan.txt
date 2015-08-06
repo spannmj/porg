@@ -1,0 +1,17 @@
+Java and Javascript interaction for browser game
+
+basic shape movement user controlled
+	up, down, left, right
+
+static environmental interactions
+	background objects
+	foreground objects
+
+dynamic environment objects
+
+physics
+	begin collision detection
+
+
+
+
